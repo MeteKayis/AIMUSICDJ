@@ -1,0 +1,23 @@
+
+.heading
+{
+    font-size:25px;
+    width: 100%;
+    margin:0px;
+}
+
+.note
+{
+    font-size: 18px;
+    color:blanchedalmond;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border:5px groove red;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px rgba(105, 203, 7, 0.681);
+}
